@@ -1,2 +1,2 @@
 # progetti_c
-Progetti in linguaggio ci quarta superiore
+Progetti in linguaggio c quarta superiore
